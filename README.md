@@ -30,5 +30,6 @@
 <img src="https://img.shields.io/badge/Android studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/>
 </div>
